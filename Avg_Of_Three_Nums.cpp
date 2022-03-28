@@ -1,8 +1,6 @@
 /*
     Author: Mahmoud Mamdouh
     Purpose: The Program Calculates the Average of Three Integers Numbers
-
-
 */
 #include <iostream>
 using namespace std;
